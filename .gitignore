@@ -1,0 +1,8 @@
+# 系统生成垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+# 备份/临时件（backup_before_modify.py 若在本目录运行）
+.backups/
+*.tmp

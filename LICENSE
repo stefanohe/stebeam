@@ -1,0 +1,10 @@
+SteBeam Preview - proprietary software
+Copyright (C) 2026 Stefano's AI Lab - All rights reserved.
+
+Full license terms: see EULA.txt (shipped with this product).
+
+This product bundles third-party open-source components, each under its own
+license (Qt 6 under GNU LGPL-3.0, MinGW runtime under GPL-3.0-with-GCC-Runtime-
+Library-Exception, winpthreads under MIT, and others). Their license texts and
+attributions are in LICENSES\ (index: LICENSES\THIRD-PARTY-NOTICES.md). Nothing
+in the proprietary license restricts your rights under those component licenses.

@@ -1,0 +1,43 @@
+﻿SteBeam V0.1 Preview 最终用户许可协议（试用版）
+SteBeam V0.1 Preview End User License Agreement (Preview / Trial)
+
+版权所 © 2026 Stefano's AI Lab（保留所有权利）
+Copyright (C) 2026 Stefano's AI Lab (All rights reserved)
+
+本 Preview 版本为预览试用版，旨在供用户评估软件功能并提供反馈。安装、复制或使用本软件即表示您同意接受以下条款；如不同意，请勿安装或使用。
+This Preview build is provided for evaluating the software's features and giving feedback. By installing, copying or using the software you agree to the terms below; if you do not agree, do not install or use it.
+
+1. 许可授予
+1. Grant of License
+本软件免费授予您试用许可：您可以安装并运行本软件进行功能评估，并可将未经修改的完整安装包原样转发给他人试用。除本条明示外，不授予任何其他权利；未经版权人书面许可，不得对本软件进行商业销售或收费分发。
+The software is licensed to you free of charge on a trial basis: you may install and run it for evaluation, and you may redistribute the complete, unmodified installation package to others for the same purpose. No other rights are granted; commercial sale or paid distribution requires prior written permission of the copyright holder.
+
+2. 第三方开源组件（重要）
+2. Third-Party Open-Source Components (Important)
+本软件包含受各自开源许可保护的第三方组件（包括以 GNU LGPL-3.0 许可的 Qt 6 库等），其许可文本与归属清单见安装目录 LICENSES\ 文件夹（索引：THIRD-PARTY-NOTICES.md）。本协议的任何条款均不意图限制您对上述开源组件在相应开源许可下享有的权利——包括修改它们用于自身用途、以及为调试此类修改而进行反向工程的权利。Qt 库以独立 DLL 形式随附，可被您自行构建的同版本库替换；Qt 完整源码见 https://download.qt.io/archive/qt/6.11/ 。
+The software contains third-party components covered by their own open-source licenses (including the Qt 6 libraries under the GNU LGPL-3.0); their license texts and attributions are in the LICENSES\ folder of the installation directory (index: THIRD-PARTY-NOTICES.md). Nothing in this agreement is intended to restrict your rights under those open-source licenses with respect to those components — including the right to modify them for your own use and to reverse engineer for the purposes of debugging such modifications. The Qt libraries are shipped as separate DLLs and may be replaced with your own builds; complete Qt source is available at https://download.qt.io/archive/qt/6.11/ .
+
+3. 限制
+3. Restrictions
+除第 2 条所保留的权利外，您不得对本软件（程序本体，不含上述第三方开源组件）进行反向工程、反向编译或反汇编，也不得移除或更改本软件中的版权与许可声明。
+Except for the rights preserved by clause 2, you may not reverse engineer, decompile or disassemble the software itself (excluding the third-party open-source components above), nor remove or alter any copyright or license notices.
+
+4. 无担保
+4. No Warranty
+本软件按"现状"提供，不作任何明示或暗示的担保，包括但不限于适销性与特定用途适用性的担保。测量结果不构成计量认证依据，使用前请以您自己的计量手段复核。因使用或无法使用本软件造成的任何损害，版权人不承担责任。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. MEASUREMENT OUTPUT IS NOT A METROLOGICAL CERTIFICATION — verify with your own instrumentation before relying on it. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+5. Preview 性质
+5. Preview Nature
+本版本为 Preview 预览版，功能与稳定性可能不完整，版权人可随时变更或停止提供，且不承诺长期维护或安全更新。
+This is a preview build; features and stability may be incomplete. The copyright holder may change or discontinue it at any time and does not commit to long-term maintenance or security updates.
+
+6. 商标
+6. Trademarks
+本协议不授予对 SteBeam 名称、标识或任何相关商标的使用许可。
+This agreement grants no license to the SteBeam name, logo or any related trademarks.
+
+7. 适用法律与协议更新
+7. Governing Law; Updates
+本协议受版权人所在地法律管辖。继续运行新版本即视为接受随该版本提供的协议文本。
+This agreement is governed by the law of the copyright holder's domicile. Running a newer version constitutes acceptance of the terms shipped with that version.
