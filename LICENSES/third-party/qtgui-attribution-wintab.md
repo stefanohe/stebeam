@@ -1,0 +1,22 @@
+# Wintab API
+
+Component: Wintab API
+License: LCS-Telegraphics License
+
+Source: https://doc.qt.io/qt-6/qtgui-attribution-wintab.html
+
+Wintab is a de facto API for pointing devices on Windows.
+
+Used in the Qt platform plugin for Windows. Configure with -no-feature-tabletevent to avoid.
+
+The sources can be found in qtbase/src/3rdparty/wintab/pktdef.h and qtbase/src/3rdparty/wintab/wintab.h.
+
+
+ Copyright 1991-1998 by LCS/Telegraphics.
+
+LCS-Telegraphics License.
+
+
+ The text and information contained in this file may be freely used,
+ copied, or distributed without compensation or licensing restrictions.
+

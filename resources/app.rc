@@ -1,0 +1,2 @@
+// SteBeam exe file icon (Explorer / taskbar): app.ico holds 256/64/48/32/16 sizes derived from the logo image.
+IDI_ICON1 ICON "app.ico"

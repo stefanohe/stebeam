@@ -1,0 +1,13 @@
+# build outputs & local app state
+build*/
+settings.ini
+realtime_csv/
+*.pro.user
+# OS junk files
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*
+# backups & temporary files
+.backups/
+*.tmp

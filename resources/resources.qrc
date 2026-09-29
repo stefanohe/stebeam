@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/logo">
+        <!-- Images live in the top-level logo/ directory; the program only ever references these copies. -->
+        <file alias="logo.png">../logo/stebeam-logo.png</file>   <!-- window / taskbar icon (the exe icon comes from app.rc -> app.ico, same source) -->
+        <file alias="st-c.png">../logo/st-c.png</file>                     <!-- banner avatar -->
+        <file alias="lgplv3-88x31.png">../logo/lgplv3-88x31.png</file>     <!-- official GNU LGPLv3 logo (public domain, gnu.org/graphics/license-logos.html), shown in the About box -->
+    </qresource>
+</RCC>
